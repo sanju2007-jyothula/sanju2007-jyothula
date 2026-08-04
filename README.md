@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Sanjana Jyothula
 
-<!--
-**sanju2007-jyothula/sanju2007-jyothula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Passionate about Programming, AI/ML and Web Development
+🌱 Currently learning Java, Python, Data Structures & Algorithms
+🚀 Interested in Open Source Contributions
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Java
+- Python
+- C
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🌊 Rising Waters – Flood Prediction using Machine Learning
+- 🌍 HDI Predictor – Human Development Index Prediction
+
+## 📫 Connect with Me
+- GitHub: https://github.com/sanju2007-jyothula
+- LinkedIn: https://www.linkedin.com/in/sanjana-jyothula-80ba08323?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+⭐ Thanks for visiting my profile!
